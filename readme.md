@@ -12,7 +12,7 @@ En esta rama de desarrollo se muestran todos los scripts de PHP y JavaScript nec
  
  ## Instrucciones de Instalación 
  1. Clona el repositorio 
- 2. Cambia de rama `master`a `php` 
+ 2. Con la rama `master` 
  3. Ejecuta el comando `composer install`
  4. En el directorio `database` se encuentra un archivo llamado `database.sql` este archivo debera de ser importado por MySQL 
  5. En caso de que no se generaran los procedimientos almacenados, en directorio `database\StoreProcedure` encontraras todos los procedimientos almacenados
